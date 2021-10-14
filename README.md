@@ -19,3 +19,12 @@ The output of the above code is as given below:
  7
  
  You guessed the number in 3 tries!
+ 
+ 
+ ---
+ 
+ # Contributors
+ 1. Shrejal Singh
+ 2. Ekta Arora
+ 3. Aaquib ALi
+ 4. Ruthvik
